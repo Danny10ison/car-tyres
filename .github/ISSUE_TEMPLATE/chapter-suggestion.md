@@ -2,7 +2,7 @@
 name: Chapter Suggestion
 about: suggest to the author which chapter should be added or removed
 title: "[CHAPTER SUGGEST]"
-labels: bug
+labels: enhancement
 assignees: Danny10ison
 
 ---
